@@ -817,7 +817,7 @@
 			},
 			{
 				"value": "Royalties",
-				"translation": "Regalías"
+				"translation": "Derechos de autor"
 			},			
 			{
 				"value": "Penalty",
@@ -837,7 +837,7 @@
 			},
 			{
 				"value": "Payroll",
-				"translation": "Nómina de sueldos"
+				"translation": "Pago de sueldos"
 			},
 			{
 				"value": "Games",
@@ -865,7 +865,7 @@
 			},
 			{
 				"value": "No Specialization",
-				"translation": "No Especialización"
+				"translation": "Sin Especialización"
 			},
 			{
 				"value": "Energy",
@@ -905,7 +905,7 @@
 			},
 			{
 				"value": "Costs",
-				"translation": "Costos"
+				"translation": "Costes"
 			},
 			{
 				"value": "Revenue",
@@ -917,7 +917,7 @@
 			},
 			{
 				"value": "Top Sales Rank",
-				"translation": "Rango de ventas superior"
+				"translation": "Clasificación de Top ventas "
 			},
 			{
 				"value": "Platforms",
@@ -949,7 +949,7 @@
 			},
 			{
 				"value": "Cost",
-				"translation": "Costo"
+				"translation": "Coste"
 			},
 			{
 				"value": "Overall Score",
@@ -985,11 +985,11 @@
 			},
 			{
 				"value": "Dev. Cost",
-				"translation": "Costo de desarrollo"
+				"translation": "Coste de desarrollo"
 			},
 			{
 				"value": "License Cost",
-				"translation": "Costo de la licencia"
+				"translation": "Coste de la licencia"
 			},
 			{
 				"value": "Market Share",
@@ -1001,7 +1001,7 @@
 			},
 			{
 				"value": "Profit",
-				"translation": "Lucro"
+				"translation": "Ganancias"
 			},
 			{
 				"value": "Need to generate a report first.",
@@ -1013,7 +1013,7 @@
 			},
 			{
 				"value": "Insights",
-				"translation": "Insights"
+				"translation": "Perspectivas"
 			},
 			{
 				"value": "Engine Development",
